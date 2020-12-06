@@ -1,0 +1,15 @@
+.select-words {
+    width: 150px;
+}
+
+.remove-btn {
+
+}
+
+.add-btn {
+    margin-right: 5px;
+}
+
+.red-input {
+    border: 2px solid red;
+}
